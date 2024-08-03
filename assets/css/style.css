@@ -395,7 +395,6 @@ section {
 .facts .count-box i {
   position: absolute;
   top: -25px;
-  left: 0;
   transform: translateX(-50%);
   font-size: 24px;
   background: #008494;
@@ -410,7 +409,6 @@ section {
 .facts .count-box span {
   position: absolute;
   top: 25px;
-  left: 0;
   transform: translateX(-50%);
   font-size: 24px;
   border-radius: 50px;
@@ -422,7 +420,6 @@ section {
 }
 .facts .count-box p {
   position: absolute;
-  left: 0;
   top: 75px;
   transform: translateX(-50%);
   font-size: 12px;
